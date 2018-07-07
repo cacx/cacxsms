@@ -1,0 +1,400 @@
+From: +000-000-0000
+Message: sample text message
+Timestamp: 123456789
+Messages Id:80
+Sent to: 
+Device ID: 1
+
+
+From: +256751604820
+Message: What is cancer of the cervix?
+Timestamp: 1529303278000
+Messages Id:080f29b8-f2bd-4101-ad16-a1cc948a233c
+Sent to: 
+Device ID: 
+
+
+From: +256751604820
+Message: How can I screen cervical cancer?
+Timestamp: 1529302736935
+Messages Id:969b3ab9-d6e9-4a08-a0d9-6cbadb62e9a0
+Sent to: 
+Device ID: 
+
+
+From: +256751604820
+Message: How can I screen cervical cancer?
+Timestamp: 1529302736935
+Messages Id:1453ea1f-d84a-483b-9bd7-1d134a86d5be
+Sent to: 
+Device ID: 
+
+
+From: +256751604820
+Message: How can I screen cervical cancer?
+Timestamp: 1529302736935
+Messages Id:0691170c-9872-496c-8b17-b7d0c4c528bc
+Sent to: 
+Device ID: 
+
+
+From: +256751604820
+Message: How can I screen cervical cancer?
+Timestamp: 1529302736935
+Messages Id:cb03dccc-bad7-4d03-b574-421fc3201065
+Sent to: 
+Device ID: 
+
+
+From: +256751604820
+Message: How can I screen cervical cancer?
+Timestamp: 1529302736935
+Messages Id:41e87402-b0cc-4779-8319-3e3ea7ff3c45
+Sent to: 
+Device ID: 
+
+
+From: +256751604820
+Message: How can I locate screening services
+Timestamp: 1529303465000
+Messages Id:09e7a685-52d9-4dd2-8b47-e5b47e8e644c
+Sent to: 
+Device ID: 
+
+
+From: +256751604820
+Message: What is Cervical Cancer
+Timestamp: 1528446423906
+Messages Id:c6ebde21-78f3-4bdd-b5e0-4458173dd58b
+Sent to: 15555215554
+Device ID: 
+
+
+From: +16505556789
+Message: Oreo's CaCx Three!
+Timestamp: 1528446040778
+Messages Id:1e6382b2-4f9d-43da-8820-47c623e23686
+Sent to: 15555215554
+Device ID: 
+
+
+From: 6505551212
+Message: Oreo's CaCx Two!
+Timestamp: 1528445987834
+Messages Id:5919e94a-5c9a-4bbe-a2e7-0c00ecf77771
+Sent to: 15555215554
+Device ID: 
+
+
+From: 6505551212
+Message: Oreo's CaCx Two!
+Timestamp: 1528445986167
+Messages Id:d4fff22c-86bc-4756-86be-152287dbcc3e
+Sent to: 15555215554
+Device ID: 
+
+
+From: 6505551212
+Message: How do i treate cervical cancer?
+Timestamp: 1529957269000
+Messages Id:28225f00-f01c-4702-bea2-0bacdd8876fe
+Sent to: 15555215554
+Device ID: 
+
+
+From: 6505551212
+Message: How do i screen cervical cancer?
+Timestamp: 1529957324000
+Messages Id:99ede1ff-5a02-47e0-8bbb-b766e99bd752
+Sent to: 15555215554
+Device ID: 
+
+
+From: 6505551212
+Message: What is the best way to screen cervical cancer?
+Timestamp: 1529958186000
+Messages Id:07861471-8d71-4685-ba7c-6197f107db5f
+Sent to: 15555215554
+Device ID: 
+
+
+From: 6505551212
+Message: What is the best way to screen cancer of the cervical ?
+Timestamp: 1529959170000
+Messages Id:7ecf8a9a-1519-447c-9e12-3b6126c0b9b1
+Sent to: 15555215554
+Device ID: 
+
+
+From: 6505551212
+Message: What is cancer of the cervix?
+Timestamp: 1529959417000
+Messages Id:33f20408-7f8e-4ca2-be50-4841ca060212
+Sent to: 15555215554
+Device ID: 
+
+
+From: +256751604820
+Message: What is the likely cause of cancer of the cervix?
+Timestamp: 1529993217000
+Messages Id:8c1cd84b-9196-4725-ac49-29a2f96802e1
+Sent to: 
+Device ID: 
+
+
+From: +256751604820
+Message: What are the screening locations in my area?
+Timestamp: 1529304068924
+Messages Id:9af9eb62-0af0-4b29-b1f1-33abc25ee388
+Sent to: 
+Device ID: 
+
+
+From: +256751604820
+Message: What are the screening locations in my area?
+Timestamp: 1529304068924
+Messages Id:631153d9-a402-46b4-90ab-e19a1dff770f
+Sent to: 
+Device ID: 
+
+
+From: +256751604820
+Message: How can I screen cervical cancer?
+Timestamp: 1529302736935
+Messages Id:57ae5108-6837-4964-9e04-3c25bb335ec7
+Sent to: 
+Device ID: 
+
+
+From: +256751604820
+Message: How can I screen cervical cancer?
+Timestamp: 1529302736935
+Messages Id:038ecb58-bbbd-4365-8d6f-a63526f14c3a
+Sent to: 
+Device ID: 
+
+
+From: +256751604820
+Message: Hello cervical cancer.
+Timestamp: 1529993369000
+Messages Id:24f53150-4fec-47ff-8210-2f5a42acbe8a
+Sent to: 
+Device ID: 
+
+
+From: +256751604820
+Message: I want to know the nearest place I can screen for cervical cancer?
+Timestamp: 1529993621000
+Messages Id:c6703d69-d163-4dba-8e70-fd1a03366a0e
+Sent to: 
+Device ID: 
+
+
+From: AIRTEL
+Message: You have received 700 SMS to use on Airtel for 7days and charged 1000/-.Get a tune at 700 monthly. Dial *157*#6 My Way-King Saha. For more dial *157#
+Timestamp: 1529993757000
+Messages Id:46128ba1-7491-4ed4-be17-2a4fb972b9bd
+Sent to: 
+Device ID: 
+
+
+From: AIRTEL
+Message: Dear customer, you have received  Ush 500 bonus Airtime to make Airtel to Airtel calls valid till midnight.
+Timestamp: 1529993781000
+Messages Id:bbfd5a15-da55-4f4a-94b0-8da7545f57d9
+Sent to: 
+Device ID: 
+
+
+From: AIRTEL
+Message: Dear customer, you have received  Ush 500 bonus Airtime to make Airtel to Airtel calls valid till midnight.
+Timestamp: 1529993783000
+Messages Id:977a72a9-5482-42b6-9c32-73894a49ca0d
+Sent to: 
+Device ID: 
+
+
+From: +256751604820
+Message: How do I prevent cervical cancer?
+Timestamp: 1529993819000
+Messages Id:494c74a7-8997-476f-9bce-812e61a3a9ec
+Sent to: 
+Device ID: 
+
+
+From: AirtelMoney
+Message: Airtel Money: You have received airtime of UGX 1,000 from DOROTHY. Dial *185# for Airtel Money transactions.
+Timestamp: 1529993720000
+Messages Id:42bfeb61-1467-473d-acb6-96b76c2b89be
+Sent to: 
+Device ID: 
+
+
+From: +256751604820
+Message: How do I cure cervical cancer?
+Timestamp: 1529993956000
+Messages Id:fec2ff61-2185-4858-9a17-17d271c56535
+Sent to: 
+Device ID: 
+
+
+From: +256751604820
+Message: What are cancer cervical cancer doctors called?
+Timestamp: 1529994108000
+Messages Id:4e11a434-bb3d-4817-bbfa-04d9e4093073
+Sent to: 
+Device ID: 
+
+
+From: +256751604820
+Message: What are the screening locations in my area?
+Timestamp: 1529304068924
+Messages Id:dc3ed19b-5c46-4610-85a4-33a96e219bfd
+Sent to: 
+Device ID: 
+
+
+From: +256751604820
+Message: How can I screen cervical cancer?
+Timestamp: 1529302736935
+Messages Id:c0726e5b-cf02-4c61-a733-9c56c0966ba0
+Sent to: 
+Device ID: 
+
+
+From: +256751604820
+Message: What are the screening locations in my area?
+Timestamp: 1529304068924
+Messages Id:8965e1cf-f07c-4917-8b99-09bda3d6c742
+Sent to: 
+Device ID: 
+
+
+From: +256751604820
+Message: How can I screen cervical cancer?
+Timestamp: 1529302736935
+Messages Id:ee45c0ac-6bd6-4c05-b07c-5795f15de1a7
+Sent to: 
+Device ID: 
+
+
+From: +256751604820
+Message: What age do girls supposed to get screened?
+Timestamp: 1530030909000
+Messages Id:9cadc757-44e7-4ead-892b-4086d571ec38
+Sent to: 
+Device ID: 
+
+
+From: Beerako
+Message: Congratulations! You now qualify to get UGX 200 advance from Beerako and pay back later! Simply Dial *155# to enjoy our services today!
+Timestamp: 1530059507000
+Messages Id:0945b5c6-aaea-4091-8e20-31a8215a5e09
+Sent to: 
+Device ID: 
+
+
+From: +256751604820
+Message: What is the cheapest way to get treatement?
+Timestamp: 1530509555000
+Messages Id:c813a3e1-7a4f-42bf-8db9-7c05bdfa7b72
+Sent to: 
+Device ID: 
+
+
+From: AIRTEL
+Message: Dear customer, you have received  Ush 500 bonus Airtime to make Airtel to Airtel calls valid till midnight.
+Timestamp: 1530509010000
+Messages Id:920fe654-e56f-4cfa-ae53-807a84fb7041
+Sent to: 
+Device ID: 
+
+
+From: AirtelMoney
+Message: The PIN you have entered is incorrect. Please type  PIN. 3 unsuccessful attempts will lock your account.
+Timestamp: 1530538604000
+Messages Id:e894ab17-6f59-441d-bcae-09a7bb72810b
+Sent to: 
+Device ID: 
+
+
+From: +256751604820
+Message: what is cervical cancer?
+Timestamp: 1530804840000
+Messages Id:243a4eef-1833-4d7b-9562-76fe9cd3a5e9
+Sent to: 
+Device ID: 
+
+
+From: +256751604820
+Message: What research is being done on cervical cancer?
+Timestamp: 1530804903000
+Messages Id:a98946bf-f182-4a53-8725-a15528c07a84
+Sent to: 
+Device ID: 
+
+
+From: +256751604820
+Message: What is the prognosis of cervical cancer?
+Timestamp: 1530804966000
+Messages Id:9f4fea6e-2eed-48ce-8786-f269cc771e1d
+Sent to: 
+Device ID: 
+
+
+From: +256751604820
+Message: What support can I get if I have cervical cancer?
+Timestamp: 1530805025000
+Messages Id:8244c72d-1aca-4428-8fa2-1bcc9cecf540
+Sent to: 
+Device ID: 
+
+
+From: +256751604820
+Message: How can I prevent cervical cancer?
+Timestamp: 1530805066000
+Messages Id:2c17e78f-6679-4495-9b55-ce3b6a75ac7f
+Sent to: 
+Device ID: 
+
+
+From: +256751604820
+Message: how can cervical cancer be prevented?
+Timestamp: 1530805120000
+Messages Id:449d561f-bc1b-4add-ad22-2188cb733ad7
+Sent to: 
+Device ID: 
+
+
+From: +256751604820
+Message: How can cervical cancer be treated?
+Timestamp: 1530805187000
+Messages Id:bed743ac-eb74-4edc-8b0c-c693114b7985
+Sent to: 
+Device ID: 
+
+
+From: +256751604820
+Message: What is the treatment for cervical cancer?
+Timestamp: 1530805227000
+Messages Id:6594b50d-5176-4c76-93f2-fcba3c7feff4
+Sent to: 
+Device ID: 
+
+
+From: +256751604820
+Message: How do women get cervical cancer?
+Timestamp: 1530805368000
+Messages Id:3405fa4d-641c-48c3-adeb-ca85eefa091c
+Sent to: 
+Device ID: 
+
+
+From: +256751604820
+Message: What are the signs and symptoms for cervical cancer?
+Timestamp: 1530805457000
+Messages Id:efd8ae33-1fba-42a2-be2b-2d9e051db837
+Sent to: 
+Device ID: 
+
+
